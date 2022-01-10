@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a4e47c1-a0dc-4364-8a7a-5e59b3046285": {
+      "ProjectGuid": "9a4e47c1-a0dc-4364-8a7a-5e59b3046285",
+      "DisplayName": "WinFormsApp1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
